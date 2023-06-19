@@ -1,6 +1,6 @@
 ## Latihan Praktikum
 
-## ERD-Studi kasus
+## ERD-Studikasus
 ![WhatsApp Image 2023-06-19 at 20 59 21](https://github.com/Agussetiaa/latihanp13/assets/115542822/d69e9e85-56da-4e65-9e6f-dfbfa9b50023)
 
 
